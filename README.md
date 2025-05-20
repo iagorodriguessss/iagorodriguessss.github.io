@@ -1,1 +1,1 @@
-Estudando e particando Git. 
+Estudando e praticando Git. 
